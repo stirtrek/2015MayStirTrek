@@ -1,0 +1,3 @@
+Slides and code available on my github repo here:
+
+https://github.com/mgroves/SwitchToDapper
